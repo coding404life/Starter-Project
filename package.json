@@ -22,7 +22,9 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "rfs": "^9.0.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coding404life/Starter-Project.git"
